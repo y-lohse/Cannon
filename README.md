@@ -12,7 +12,8 @@ into it.
 ___________________
 ## Usage
 
-Almost every function is commented inside the files, but there is currently no standalone documentation.
-For examples, you can visit my blog [yannick-lohse.fr](http://yannick-lohse.fr), or email me at contact-at-yannick-lohse.fr - I'd love to help.
+The code itself is fairly well documented, but you can also go to [the projects wiki](https://github.com/y-lohse/Cannon/wiki) for more documentation.
+
+For more examples, you can visit my blog [yannick-lohse.fr](http://yannick-lohse.fr), or email me at contact-at-yannick-lohse.fr - I'd love to help.
 
 There are still plenty of things that I plan to add, and help would of course be very appreciated :)
